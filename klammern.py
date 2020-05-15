@@ -1,0 +1,3 @@
+# Ich habe keinen Plan...
+
+def klammern(string: str):
